@@ -1,0 +1,12 @@
+my\antonov\database\DataBaseManager.class
+my\antonov\database\util\DataAccessFactory.class
+my\antonov\database\impl\logic\dao\PlayerDAO.class
+my\antonov\database\impl\logic\DataBaseLogic.class
+my\antonov\database\DataBase.class
+my\antonov\App.class
+my\antonov\database\util\MyBatisUtil.class
+my\antonov\database\impl\DataBaseConnection.class
+my\antonov\database\impl\logic\mappers\PlayerMapper.class
+my\antonov\database\impl\logic\entity\Statistic.class
+my\antonov\database\impl\logic\entity\Player.class
+my\antonov\database\util\JDBCUtil.class

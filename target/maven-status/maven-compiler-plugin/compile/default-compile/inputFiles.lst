@@ -1,0 +1,12 @@
+A:\tmp\Labyrinth\DatabaseModule\src\main\java\my\antonov\database\DataBaseManager.java
+A:\tmp\Labyrinth\DatabaseModule\src\main\java\my\antonov\App.java
+A:\tmp\Labyrinth\DatabaseModule\src\main\java\my\antonov\database\impl\DataBaseConnection.java
+A:\tmp\Labyrinth\DatabaseModule\src\main\java\my\antonov\database\impl\logic\DataBaseLogic.java
+A:\tmp\Labyrinth\DatabaseModule\src\main\java\my\antonov\database\impl\logic\mappers\PlayerMapper.java
+A:\tmp\Labyrinth\DatabaseModule\src\main\java\my\antonov\database\util\DataAccessFactory.java
+A:\tmp\Labyrinth\DatabaseModule\src\main\java\my\antonov\database\DataBase.java
+A:\tmp\Labyrinth\DatabaseModule\src\main\java\my\antonov\database\impl\logic\dao\PlayerDAO.java
+A:\tmp\Labyrinth\DatabaseModule\src\main\java\my\antonov\database\util\MyBatisUtil.java
+A:\tmp\Labyrinth\DatabaseModule\src\main\java\my\antonov\database\impl\logic\entity\Statistic.java
+A:\tmp\Labyrinth\DatabaseModule\src\main\java\my\antonov\database\util\JDBCUtil.java
+A:\tmp\Labyrinth\DatabaseModule\src\main\java\my\antonov\database\impl\logic\entity\Player.java
